@@ -1,16 +1,14 @@
-# Student Career & Skills Development Portal — ICT306
+# Student Career & Skills Development Portal
 
-> **Portfolio documentation, recreated from the ICT306 report and presentation in Google Drive — original uni code / prototype files are no longer accessible (student email closed).**
->
-> This repo contains the **design and deployment documentation** for the portal, not a running copy of the original prototype. Do not present it as the original submitted code.
->
-> Dinisha Lamichhane was a member of the team of 4; her individual contribution is **[to confirm]** — do not assume a specific section from this repo alone.
+**My ICT306 project — Dinisha Lamichhane, Bachelor of IT (Cyber Security), Sydney Metropolitan Institute of Technology. Team of 4.**
+
+Portfolio version recreated from my university project work — original files are no longer accessible after my student email closed.
 
 ## The problem
 
 The institution used Moodle and MES for learning but had no integrated career platform. Jobs were shared by email and social media, with no skill-gap analysis or employability tracking.
 
-## What was designed
+## What I designed (with my team)
 
 A web-based enterprise portal integrated with Moodle:
 
@@ -24,9 +22,9 @@ See `docs/ARCHITECTURE.md` and `docs/DEPLOYMENT-PLAN.md`.
 ## Result
 
 - **Unit:** ICT306 Information Systems Deployment & Management, T1 2026 — **85 HD**
-- Completed report + presentation in Drive
-- Prototype linked in the slides: https://nmyrp8.csb.app/
-  - **Link status: NOT verified.** Muse checked it on 21 Nov 2026 and again at 19:33 ACST and got only a Cloudflare "Sorry, you have been blocked" page. It may still work from Dinisha's own browser/phone. **Do not add it to LinkedIn or a resume until she has opened it herself and confirmed it loads.**
+- Completed report + presentation
+- Prototype (from the project slides): https://nmyrp8.csb.app/
+  - It returned a Cloudflare block page when last checked on 21 Nov 2026, so I can't confirm it still loads.
 
 ## Tech / concepts
 
@@ -34,4 +32,4 @@ Multi-tier architecture (presentation / application / database layers) · Moodle
 
 ## Licence
 
-MIT — see `LICENSE` (same MIT text as the phishing repo; add before pushing).
+MIT — see `LICENSE`.
