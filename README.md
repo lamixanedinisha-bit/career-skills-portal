@@ -2,6 +2,8 @@
 
 **My ICT306 project — Dinisha Lamichhane, Bachelor of IT (Cyber Security), Sydney Metropolitan Institute of Technology. Team of 4.**
 
+My contribution: project planning, portal design, testing, and the final presentation, as part of a team of 4.
+
 Portfolio version recreated from my university project work — original files are no longer accessible after my student email closed.
 
 ## The problem
